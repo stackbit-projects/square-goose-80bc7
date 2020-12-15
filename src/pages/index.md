@@ -14,6 +14,6 @@ intro_actions:
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Access to Full Article
+more_link_text: Access Full Article
 template: home
 ---
